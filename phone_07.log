@@ -1,0 +1,12 @@
+Date: Oct 6
+status: Partially recovered
+Time : 12:00
+---
+
+Nina: The incident reports aren't showing up in the dashboard.
+
+Thomas: Are they missing from the database too?
+
+Nina: Not sure. The API returns an empty list.
+
+Thomas: Check the query filters and server logs before we restore anything.

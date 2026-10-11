@@ -1,0 +1,12 @@
+Date: Oct 4
+status: Partially recovered
+Time : 3:09
+---
+
+Lewis: The backup has employee records dated 2019.
+
+Kim: That's the old test dataset. It shouldn't be in production.
+
+Lewis: I'll move it to staging and check whether anything depends on it.
+
+Kim: Let me know before you change permissions.

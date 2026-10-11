@@ -1,0 +1,14 @@
+Date: Oct 7
+status: Partially recovered
+Time : 10:26
+---
+
+Mlin: The archive shows a file was accessed after the maintenance window.
+
+Rao: Was the server actually offline then?
+
+Mlin: Only the app service. The storage node stayed up.
+
+Rao: That explains it. Check the audit log to see which service account made the request.
+
+Mlin: Sure, I'll send you the request ID.

@@ -1,0 +1,14 @@
+Date: Oct 2
+status: Recovered
+Time : 10:13
+---
+
+Sarah: Hey, did you log in to my workstation last night?
+
+David: No. Why?
+
+Sarah: There's a login at 11:42 PM under my account.
+
+David: Check the VPN logs. It might've been your session reconnecting.
+
+Sarah: Okay, I'll check.
